@@ -2,8 +2,9 @@
 
 Datasets and code for the manuscript:
 
-**Three sympatric species of hummingbird-pollinated *Centropogon*: A match for coevolution?**  
-Asia Kaiser, Lena Heinrich, Sara Sofia Pedraza, Sebastian Forward, Raj Prasai, J. Edgardo Arévalo, Mauricio Fernández Otárola
+**Trait matching between flowers and hummingbirds facilitates reproductive isolation among sympatric species of Centropogon (Campanulaceae) in the Costa Rican highlands <img width="468" height="32" alt="image" src="https://github.com/user-attachments/assets/3c521b5f-0482-49d3-a43c-d73723292798" />
+**  
+Lena Heinrich, Asia Kaiser, Sara Sofia Pedraza, Sebastian Forward, Raj Prasai, J. Edgardo Arévalo, Mauricio Fernández Otárola
 
 ---
 
