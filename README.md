@@ -14,8 +14,6 @@ This repository contains code and data for analyzing trait matching, pollinator 
 ---
 
 ## Files
-Files within the folder "**Centropogon_Distributions**" pertain to the species distribution modeling. 
-
 **1. `data_cleaning.R`**  
 Cleans and standardizes GBIF occurrence data for six focal species (*Centropogon* and hummingbirds). Removes duplicates, filters out ocean points, and saves a cleaned dataset (`clean.csv`) for use in modeling.
 
@@ -27,9 +25,6 @@ Visualizes SDM outputs by plotting predicted distributions for each plant-pollin
 
 **4. `clean.csv`**  
 Cleaned occurrence data for all six species, used as input to the SDM pipeline.
-
-Files within the folder "**Centropogon_Interactions**" pertain to the floral morphology, bill morphology, and plant-hummingbird interaction analyses.
-
 ---
 
 ## Citations for GBIF datasets
