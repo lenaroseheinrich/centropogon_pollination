@@ -26,6 +26,10 @@ Visualizes SDM outputs by plotting predicted distributions for each plant-pollin
 **4. `clean.csv`**  
 Cleaned occurrence data for all six species, used as input to the SDM pipeline.
 
+## Folders:
+**data**
+Contains flower measurements, hummingbird bill measurements, and plant-hummingbird interaction data.
+
 ---
 
 ## Citations for GBIF datasets
