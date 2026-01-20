@@ -15,6 +15,7 @@ This repository contains code and data for analyzing co-distributions of three h
 
 ## Files
 Files within the folder "**Centropogon_Distributions**" pertains to the species distribution modeling. 
+
 **1. `data_cleaning.R`**  
 Cleans and standardizes GBIF occurrence data for six focal species (*Centropogon* and hummingbirds). Removes duplicates, filters out ocean points, and saves a cleaned dataset (`clean.csv`) for use in modeling.
 
