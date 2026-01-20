@@ -9,7 +9,7 @@ Lena Heinrich, Asia Kaiser, Sara Sofia Pedraza, Sebastian Forward, Raj Prasai, J
 
 ## Short description of methods
 
-This repository contains code and data for analyzing co-distributions of three hummingbird-pollinated *Centropogon* species and their pollinators across Costa Rica and Panama. We perform species distribution modeling (SDM) using occurrence data from GBIF and environmental variables, and quantify geographic overlap among species pairs. The workflow includes cleaning the occurrence points, performing species distribution modeling, visualizating the predicted distributions, and calculating range overlap percentages between species pairs.
+This repository contains code and data for analyzing trait matching, pollinator visitation, and co-distributions of three hummingbird-pollinated *Centropogon* species and their pollinators across Costa Rica and Panama. We perform species distribution modeling (SDM) using occurrence data from GBIF and environmental variables, and quantify geographic overlap among species pairs. The workflow includes cleaning the occurrence points, performing species distribution modeling, visualizating the predicted distributions, and calculating range overlap percentages between species pairs.
 
 ---
 
