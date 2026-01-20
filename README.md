@@ -25,6 +25,7 @@ Visualizes SDM outputs by plotting predicted distributions for each plant-pollin
 
 **4. `clean.csv`**  
 Cleaned occurrence data for all six species, used as input to the SDM pipeline.
+
 ---
 
 ## Citations for GBIF datasets
