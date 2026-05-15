@@ -26,6 +26,9 @@ Visualizes SDM outputs by plotting predicted distributions for each plant-pollin
 **4. `clean.csv`**  
 Cleaned occurrence data for all six species, used as input to the SDM pipeline.
 
+**5. `centropogon_analyses**
+Code for statistical analyses, including linear mixed-effects models of corolla, anther, and exertion length by Centropogon sex and species; chi-square tests of visitation frequency; and bootstrapped correlations between hummingbird morphology and flower size to estimate correlation coefficients and confidence intervals. This file also contains the code to generate the corresponding plots.
+
 ## Folders:
 **data**
 Contains flower measurements, hummingbird bill measurements, and plant-hummingbird interaction data.
